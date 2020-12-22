@@ -12,7 +12,7 @@ Production Support and Developer on Mulesoft V3, V4, Datapower, APIC and others 
 
 #Project activity
 - Collect the prerequesit requirement
-- Design API Speccification
+- Design API Specification
 - Develope API  -- Interface
 - Develop Mule Application  -- Implementation
 - Deploye to the Repository
